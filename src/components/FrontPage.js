@@ -2,7 +2,7 @@ const SaltyTitle = () => {
     return(
         <div>
             <h1>The Salty Local</h1>
-            <p>your neighborhood slice.</p>
+            <h2>your neighborhood slice.</h2>
         </div>
     )
 } 
